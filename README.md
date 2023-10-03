@@ -13,7 +13,7 @@
    - Linux EXT2 File System
 
 🔧 Skills:
-   - Languages: C, C++, JavaScript, PostgreSQL, Python, Bash
+   - Languages: C, C++, JavaScript, SQL, Python, Bash
    - Technologies: Git, Visual Studio, Rider, Windows, OSX, Linux
    - Certifications: CompTIA Security+
 
